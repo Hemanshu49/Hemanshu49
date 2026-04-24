@@ -1,29 +1,113 @@
-<h1 align="center">Hi 👋, I'm Hemanshu Rajde</h1>
-I’m a passionate <b>Full Stack Developer</b> from India, mainly focused on backend but with enough frontend knowledge to get things done.<br/>
-When I’m not coding, I love trying out new food and relaxing with a cup of chai!
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hemanshu%20Rajde&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%F0%9F%9A%80%20%7C%20AI%2FML%20Enthusiast%F0%9F%A4%96&descAlignY=58&descSize=20&animation=fadeIn" />
+
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%9A%80;AI%2FML+Explorer+%F0%9F%A4%96;Always+learning%2C+always+building+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me &nbsp; `$ git log --oneline`
+
+<img align="right" alt="Coding" width="340" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+| Status | Project |
+|--------|---------|
+| 🔭 **Working** | AI-Based Short-Term Load Forecasting |
+| 🏗️ **Building** | Crime Prediction & Chargesheet Management System for Mumbai Police |
+| 🌱 **Learning** | AI/ML · Deployment Pipelines · MLOps |
+| 👯 **Open to** | Collaborations on AI-ML & Data Analysis |
+| ☕ **Always** | Debugging with chai in hand |
 
 <br/>
-<br/>
-  <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952lmfg7d7bixs9nwhll9fefd16vz8m04i5k2y8gb3b&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-  
-<h3 align="left">About Me:</h3>
+<a href="https://hemanshurajde.dev">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-hemanshurajde.dev-302b63?style=for-the-badge" />
+</a>
 
-- 🔭 I’m currently working on **AI Based Short term Load Forecasting**
+<br clear="right"/>
 
-- 🌱 I’m currently learning **I’m into everything, but right now, I’m diving into AI/ML and the deployment process!**
+---
 
-- 👯 I’m looking to collaborate on **AI-ML and Data Analysis**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **hemanshumiheer@gmail.com, hemanshu.r@somaiya.edu**
+### 💻 Backend & Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,go,php" />
+</p>
 
-- ⚡ Fun fact **I get so into fixing code errors that by the time I’ve solved it, I’ve somehow ended up with snacks and a cup of chai scattered around me!**
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,typescript" />
+</p>
 
-- Connet with me:  [![Linkedin Badge](https://img.shields.io/badge/-hemanshurajde-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanshurajde/)](https://www.linkedin.com/in/hemanshurajde/)
-[![Instagram Badge](https://img.shields.io/badge/-@hemanshurajde-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hemanshurajde)](https://instagram.com/hemanshurajde)
+### 🧠 AI / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+</p>
 
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,linux,figma,postman,arduino" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanshu49&show_icons=true&locale=en&layout=compact" alt="hemanshu49" /></p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hemanshu49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanshu49&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanshu49&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me &nbsp; `$ ping hemanshu`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemanshurajde/">
+    <img src="https://img.shields.io/badge/LinkedIn-hemanshurajde-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:hemanshumiheer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/hemanshurajde">
+    <img src="https://img.shields.io/badge/Instagram-@hemanshurajde-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```js
+while (alive) {
+    eat();
+    code();
+    drinkChai();
+    repeat();
+}
+```
+
+> I start fixing one bug… and end up solving five more — with chai and snacks by my side ☕😄
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</div>
