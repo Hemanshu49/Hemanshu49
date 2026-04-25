@@ -26,7 +26,7 @@
 
 <br/>
 
-<a href="https://hemanshurajde.dev">
+<a href="https://hemanshuportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/🌐 Portfolio-hemanshurajde.dev-302b63?style=for-the-badge" />
 </a>
 
